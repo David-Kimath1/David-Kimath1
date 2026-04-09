@@ -12,14 +12,8 @@ Focused on automation, human-centered AI, and efficient system design.
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,js,react,nodejs,docker,kubernetes,linux,bash,aws,grafana,postgres,redis,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,js,html,css,python,java,c,bash,nodejs,react,git,github,vscode&perline=7" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,js,html,css,python,java,bash,nodejs,react,postgres,git&perline=6" />
-</p>
-
-<img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
 ---
 
 ## Current Focus
