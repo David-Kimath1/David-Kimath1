@@ -9,10 +9,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" />
 </p>
 
-### 📊 Quantum Activity Matrix
-
-| Daily Ops (Dates) | Monthly Trends |
-|:---:|:---:|
-| ![Daily Graph](https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true) | ![Monthly Calendar](https://ghchart.rshah.org/David-Kimath1?theme=radical) |
-
-*Left: Temporal ops log | Right: Monthly heat signature*
+<p align="center">
+  <img src="https://ghchart.rshah.org/David-Kimath1?theme=radical&labels=00FFCC&border=00FFCC" />
+</p>
