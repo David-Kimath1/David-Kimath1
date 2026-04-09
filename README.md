@@ -92,7 +92,7 @@ A “Now Playing” system using Spotify API.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=David-Kimath1&style=for-the-badge&color=00FFCC&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=David-Kimath1&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
 </p>
 
 ---
