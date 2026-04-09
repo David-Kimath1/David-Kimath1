@@ -1,5 +1,5 @@
 <h1 align="center">David Kimathi</h1>
-<h3 align="center">Full-Stack Developer | Systems Builder | AI Assistant Engineer</h3>
+<h3 align="center">Frontend Web Developer | Systems Builder | AI Assistant Engineer</h3>
 
 <p align="center">
 Building intelligent systems, clean interfaces, and scalable backend solutions.
@@ -19,9 +19,9 @@ Focused on automation, human-centered AI, and efficient system design.
 
 ## Current Focus
 
-- Building **Nova** — a browser-based AI assistant with voice input, reminders, and dynamic responses  
-- Developing a **Library Management System** (VB.NET + Access) with full admin and user workflows  
-- Exploring **API integrations** (Spotify, automation tools, real-time data systems)  
+- Building **Autumn** — a browser-based AI assistant with voice input, reminders, and dynamic responses  
+- Developing a **Golden Crust Bakeries** with full admin and user workflows  
+- Exploring **API integrations** 
 - Improving **frontend architecture** with clean UI, responsiveness, and user-focused design  
 
 ---
@@ -32,19 +32,19 @@ Focused on automation, human-centered AI, and efficient system design.
 - **Backend:** Node.js, Express  
 - **Systems & Tools:** Docker, Kubernetes, Linux, Bash  
 - **Databases:** PostgreSQL, Redis  
-- **Other:** API Integration, UI/UX Design (Figma), Automation Systems  
+- **Other:** API Integration, UI/UX Design (Figma), Automation Systems, Linux, Git, Python  
 
 ---
 
 ## Featured Projects
 
-### Nova AI Assistant
+### Autumn AI Assistant
 A browser-based assistant with voice interaction, reminders, and dynamic conversation flow.  
 - Natural language command handling  
 - Voice input and response system  
 - Local storage-based memory  
 
-### Library Management System
+### Golden Crust Bakeries
 Desktop system built with VB.NET and Microsoft Access.  
 - Book borrowing and return tracking  
 - Fine calculation for overdue returns  
@@ -81,10 +81,10 @@ A “Now Playing” system using Spotify API.
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://www.instagram.com/da.veeee_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+  <a href="mailto:kimathicodes@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/David-Kimath1">
