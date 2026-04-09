@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/David-Kimath1?theme=radical&labels=00FFCC&border=00FFCC" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=David-Kimath1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" />
 </p>
