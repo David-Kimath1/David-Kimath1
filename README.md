@@ -9,6 +9,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=David-Kimath1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" />
-</p>
+### 📅 Activity Timeline (Last 30 days)
+
+```yaml
+months_visible: “Jan → Feb → Mar → Apr → May → Jun”
+current_range: “showing daily commits”<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" /> </p> ```
