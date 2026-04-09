@@ -1,1 +1,1 @@
-![Visits](https://visitcount.itsvg.in/api?id=David-Kimath1&label=Profile%20Visits)
+![Profile Views](https://komarev.com/ghpvc/?username=David-Kimath1)
