@@ -15,6 +15,10 @@ Focused on automation, human-centered AI, and efficient system design.
   <img src="https://skillicons.dev/icons?i=python,rust,go,js,react,nodejs,docker,kubernetes,linux,bash,aws,grafana,postgres,redis,figma&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,js,html,css,python,java,bash,nodejs,react,postgres,git&perline=6" />
+</p>
+
 ---
 
 ## Current Focus
