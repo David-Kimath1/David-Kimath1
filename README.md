@@ -103,8 +103,11 @@ A “Now Playing” system using Spotify API.
 
 <h3 align="center">🎧 Currently Vibing To</h3>
 
-<p align="center">
-  <a href="https://Nair0bian.pythonanywhere.com/link">
-    <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffcc&bg_color=0a0f1a&waveform=square&grid=true&glow=blue" />
-  </a>
-</p>
+<!-- Matrix green style -->
+<img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ff41&bg_color=000000&waveform=noise&glow=green" />
+
+<!-- Cyberpunk pink/blue -->
+<img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=ff00ff&bg_color=1a0b2e&waveform=triangle&glow=magenta" />
+
+<!-- Holo-display -->
+<img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffff&bg_color=001a1a&waveform=sine&glow=cyan&grid=true" />
