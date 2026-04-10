@@ -100,3 +100,10 @@ A “Now Playing” system using Spotify API.
 <div align="center">
   <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
 </div>
+
+<a href="https://Nair0bian.pythonanywhere.com/link">
+  <img
+    src="https://Nair0bian.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
