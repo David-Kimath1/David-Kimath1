@@ -105,6 +105,6 @@ A “Now Playing” system using Spotify API.
 
 <p align="center">
   <a href="https://Nair0bian.pythonanywhere.com/link">
-    <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=rainbow" />
+    <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffcc&bg_color=0a0f1a&waveform=square&grid=true&glow=blue" />
   </a>
 </p>
