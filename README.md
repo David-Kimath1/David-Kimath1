@@ -2,8 +2,21 @@
 <h3 align="center">Frontend Web Developer | Systems Builder | AI Assistant Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Creating+clean+interfaces;Scaling+backend+solutions;Human-centered+AI+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Creating+clean+interfaces;Scaling+backend+solutions;Human-centered+AI+design" />
 </p>
+
+---
+
+## 🧠 About Me
+
+<p align="center">
+Focused on building intelligent systems, clean user interfaces, and scalable backend solutions.<br/>
+I design with users in mind and engineer systems that feel seamless and powerful.
+</p>
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,js,html,css,python,java,c,bash,nodejs,react,git,github,vscode&perline=7" />
@@ -11,94 +24,96 @@
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 <table align="center">
   <tr>
     <td width="50%">
-      <strong>Autumn AI Assistant</strong><br/>
-      Browser-based assistant with voice input, reminders & dynamic responses
+      <strong>🤖 Autumn AI Assistant</strong><br/>
+      Voice-enabled browser assistant with dynamic responses & reminders
     </td>
     <td width="50%">
-      <strong>Golden Crust Bakeries</strong><br/>
-      Full-stack system with admin and user workflows
+      <strong>🥐 Golden Crust System</strong><br/>
+      Full-stack workflow system with admin & user control
     </td>
   </tr>
   <tr>
     <td>
-      <strong>API Integrations</strong><br/>
-      Building robust third-party integrations
+      <strong>🔗 API Integrations</strong><br/>
+      Building scalable and reliable integrations
     </td>
     <td>
-      <strong>Frontend Architecture</strong><br/>
-      Clean UI, responsiveness, user-focused design
+      <strong>🎨 Frontend Architecture</strong><br/>
+      Clean UI, responsiveness & user-first design
     </td>
   </tr>
 </table>
 
 ---
 
-## Core Skills
+## 🧩 Core Skills
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>HTML, CSS, JavaScript, React</td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>Node.js, Express</td>
-    </tr>
-    <tr>
-      <td><strong>Systems & Tools</strong></td>
-      <td>Docker, Kubernetes, Linux, Bash</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>PostgreSQL, Redis</td>
-    </tr>
-    <tr>
-      <td><strong>Other</strong></td>
-      <td>API Integration, UI/UX Design (Figma), Automation Systems, Git, Python</td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>HTML, CSS, JavaScript, React</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express</td>
+  </tr>
+  <tr>
+    <td><strong>Systems</strong></td>
+    <td>Docker, Kubernetes, Linux, Bash</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL, Redis</td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>API Integration, UI/UX (Figma), Automation, Git, Python</td>
+  </tr>
+</table>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Autumn AI Assistant
-Browser-based assistant with voice interaction, reminders, and dynamic conversation flow.
-
-| Feature | Description |
-|---------|-------------|
-| Voice Input | Natural language command handling |
-| Response System | Dynamic conversation flow |
-| Memory | Local storage-based persistence |
-
-### Golden Crust Bakeries
-Desktop system built with VB.NET and Microsoft Access.
+### 🤖 Autumn AI Assistant
+Browser-based assistant with voice interaction and smart responses.
 
 | Feature | Description |
-|---------|-------------|
-| Book Tracking | Borrowing and return management |
-| Fine Calculation | Automated overdue fine system |
-| Admin Panel | Full system control dashboard |
-
-### Spotify Integration Widget
-"Now Playing" system using Spotify API.
-
-| Feature | Description |
-|---------|-------------|
-| Real-time Display | Current track information |
-| OAuth Flow | Secure authentication |
-| Custom UI | Seamless integration design |
+|--------|------------|
+| 🎤 Voice Input | Natural language command handling |
+| 🧠 Dynamic Responses | Smart conversation flow |
+| 💾 Memory | LocalStorage-based persistence |
 
 ---
 
-## Development Activity
+### 🏢 Golden Crust System
+Desktop management system built with VB.NET & Access.
+
+| Feature | Description |
+|--------|------------|
+| 📚 Tracking | Borrowing & return management |
+| 💰 Fines | Automated overdue calculations |
+| 🛠 Admin Panel | Full system control |
+
+---
+
+### 🎧 Spotify Integration Widget
+Real-time "Now Playing" system using Spotify API.
+
+| Feature | Description |
+|--------|------------|
+| 🎶 Live Data | Current track display |
+| 🔐 OAuth | Secure authentication |
+| 🎨 UI | Clean custom design |
+
+---
+
+## 📊 Development Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Kimath1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" />
@@ -115,7 +130,7 @@ Desktop system built with VB.NET and Microsoft Access.
 
 ---
 
-## Currently Vibing To
+## 🎧 Currently Vibing To
 
 <p align="center">
   <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00FFCC&bg_color=0D1117&waveform=digital&bars=48&glow=cyan&grid=true&fps=60" />
@@ -123,7 +138,7 @@ Desktop system built with VB.NET and Microsoft Access.
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/da.veeee_/">
@@ -144,7 +159,5 @@ Desktop system built with VB.NET and Microsoft Access.
 ---
 
 <div align="center">
-  <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
-  <br/>
   <sub>Code. Build. Innovate. Repeat.</sub>
 </div>
