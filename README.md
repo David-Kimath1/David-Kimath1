@@ -101,8 +101,10 @@ A “Now Playing” system using Spotify API.
   <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
 </div>
 
+<h3 align="center">🎧 Currently Vibing To</h3>
+
 <p align="center">
   <a href="https://Nair0bian.pythonanywhere.com/link">
-    <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true" />
+    <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=rainbow" />
   </a>
 </p>
