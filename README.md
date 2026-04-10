@@ -102,7 +102,7 @@ A “Now Playing” system using Spotify API.
 
 
 <!-- Holo-display -->
-<img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffff&bg_color=001a1a&waveform=sine&glow=cyan&grid=true" />
+<img align="center" src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffff&bg_color=001a1a&waveform=sine&glow=cyan&grid=true" />
 
 
 <div align="center">
