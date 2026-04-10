@@ -103,7 +103,7 @@ A “Now Playing” system using Spotify API.
 
 <a href="https://Nair0bian.pythonanywhere.com/link">
   <img
-    src="https://Nair0bian.pythonanywhere.com"
-    alt="Current Spotify Song"
+    src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true"
+    alt="Now Playing"
   />
 </a>
