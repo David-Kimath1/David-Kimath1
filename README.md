@@ -39,17 +39,14 @@
 
 ## Featured Projects
 
-### Autumn AI Assistant
-A browser-based assistant with voice interaction, reminders, and dynamic conversation flow.
-- Natural language command handling
-- Voice input and response system
-- Local storage-based memory
+### SubTracker - https://subscripti0n-tracker.vercel.app/
+Smart subscription tracker with push notifications and multi-currency support
+- Managing subscriptions across multiple platforms
+- Free to use permanently
+- Full control of your data
 
-### Golden Crust Bakeries
-Desktop system built with VB.NET and Microsoft Access.
-- Book borrowing and return tracking
-- Fine calculation for overdue returns
-- Admin panel with full control
+### Golden Crust Bakeries - https://golden-crust-dave-o-lopers-projects.vercel.app/
+In a world full of busy bodies, I made a bakery website where one doesn't have to get out and buy snacks or bakery foods but to order online. It doesn't have to be bakery foods only, also light snacks and foods. The frontend is done but the backend is under construction.
 
 ### Spotify Integration Widget
 A “Now Playing” system using Spotify API.
