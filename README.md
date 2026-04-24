@@ -19,7 +19,8 @@
 
 ## Current Focus
 
-- Building **Autumn** — a browser-based AI assistant with voice input, reminders, and dynamic responses
+- Building browser-based AI assistants with voice input, reminders, and dynamic responses
+- Learning on backend architecture
 - Developing a **Golden Crust Bakeries** with full admin and user workflows
 - Exploring **API integrations**
 - Improving **frontend architecture** with clean UI, responsiveness, and user-focused design
@@ -29,7 +30,7 @@
 ## Core Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
+- **Backend:** Node.js
 - **Systems & Tools:** Docker, Kubernetes, Linux, Bash
 - **Databases:** PostgreSQL, Redis
 - **Other:** API Integration, UI/UX Design (Figma), Automation Systems, Linux, Git, Python
