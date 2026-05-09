@@ -105,7 +105,7 @@ A “Now Playing” system using Spotify API.
 
 ---
 
-<h3 align="center">🎧 Currently Vibing To</h3>
+<!-- <h3 align="center">🎧 Currently Vibing To</h3> -->
 
 <!-- Holo-display -->
 <p align="center">
