@@ -91,7 +91,7 @@ A “Now Playing” system using Spotify API.
   <a href="https://www.instagram.com/da.veeee_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:kimathicodes@gmail.com">
+  <a href="mailto:mubichidavidkimathi@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/David-Kimath1">
