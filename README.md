@@ -105,12 +105,12 @@ A “Now Playing” system using Spotify API.
 
 ---
 
-<!-- <h3 align="center">🎧 Currently Vibing To</h3> -->
+<!-- <h3 align="center">🎧 Currently Vibing To</h3>
 
-<!-- Holo-display -->
+Holo-display
 <p align="center">
   <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffff&bg_color=001a1a&waveform=sine&glow=cyan&grid=true" />
-</p>
+</p> -->
 
 <div align="center">
   <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
