@@ -1,31 +1,18 @@
-<div align="center">
+<h1 align="center">David Kimathi</h1>
+<h3 align="center">Frontend Web Developer | Systems Builder | AI Assistant Engineer</h3>
 
-# David Kimathi
+<p align="center">
+  Building intelligent systems, clean interfaces, and scalable backend solutions.
+</p>
 
-### Frontend Web Developer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; AI Assistant Engineer
-
-<p>Building intelligent systems, clean interfaces, and scalable backend solutions.</p>
-<p>Focused on automation, human-centered AI, and efficient system design.</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/David-Kimath1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-mubichi-4444703a3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/da.veeee_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubichidavidkimathi@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=David-Kimath1&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
-
-</div>
+<p align="center">
+  Focused on automation, human-centered AI, and efficient system design.
+</p>
 
 ---
 
-## Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,java,c,bash,django,bootstrap&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase,redis,docker,linux,git,github,gitlab,figma&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel,netlify,unity,blender&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,js,html,css,python,java,c,bash,nodejs,react,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -33,8 +20,8 @@
 ## Current Focus
 
 - Building browser-based AI assistants with voice input, reminders, and dynamic responses
-- Learning backend architecture
-- Developing **Golden Crust Bakeries** with full admin and user workflows
+- Learning on backend architecture
+- Developing a **Golden Crust Bakeries** with full admin and user workflows
 - Exploring **API integrations**
 - Improving **frontend architecture** with clean UI, responsiveness, and user-focused design
 
@@ -42,95 +29,88 @@
 
 ## Core Skills
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript, React, Next.js, Bootstrap |
-| **Backend** | Node.js, Django |
-| **Databases** | MySQL, MongoDB, PostgreSQL, SQLite, Firebase, Redis |
-| **Systems & Tools** | Docker, Kubernetes, Linux, Bash, Git |
-| **Design & Other** | Figma, Canva, Blender, Python, NumPy, Pandas, OpenCV, Unity |
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js
+- **Systems & Tools:** Docker, Kubernetes, Linux, Bash
+- **Databases:** PostgreSQL, Redis
+- **Other:** API Integration, UI/UX Design (Figma), Automation Systems, Linux, Git, Python
 
 ---
 
 ## Featured Projects
 
-### [Portfolio](https://my-portfolio1-weld.vercel.app/)
+### Portfolio
+### https://my-portfolio1-weld.vercel.app/
 A modern responsive personal portfolio website showcasing my skills, projects, and services.
 
-`HTML` `CSS` `JavaScript` `Vercel`
 
----
-
-### [SubTracker](https://subscripti0n-tracker.vercel.app/)
-Smart subscription manager with push notifications and multi-currency support.
+### SubTracker
+### https://subscripti0n-tracker.vercel.app/
+Smart subscription tracker with push notifications and multi-currency support
 - Managing subscriptions across multiple platforms
 - Free to use permanently
 - Full control of your data
 
-`JavaScript` `Push API` `Multi-currency` `Vercel`
+### Golden Crust Bakeries
+### https://golden-crust-dave-o-lopers-projects.vercel.app/
+In a world full of busy bodies, I made a bakery website where one doesn't have to get out and buy snacks or bakery foods but to order online. It doesn't have to be bakery foods only, also light snacks and foods. The frontend is done but the backend is under construction.
 
----
 
-### [Golden Crust Bakeries](https://golden-crust-dave-o-lopers-projects.vercel.app/)
-An online ordering platform for bakery goods and light snacks — no need to leave home. Frontend complete; backend under active development.
-
-`HTML` `CSS` `JavaScript` `Vercel` `Backend WIP`
-
----
 
 ### Spotify Integration Widget
-A "Now Playing" display system using the Spotify API.
+A “Now Playing” system using Spotify API.
 - Real-time music display
 - OAuth authentication flow
 - Custom UI integration
-
-`Spotify API` `OAuth` `JavaScript`
 
 ---
 
 ## Development Activity
 
-<div align="center">
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Kimath1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kimath1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC" />
+</p> -->
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=David-Kimath1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Kimath1&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakNum=FFFFFF" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=David-Kimath1&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=David-Kimath1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=David-Kimath1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" />
+</p>
 
 ---
 
-## Top Contributed Repos
+## Connect
 
-<div align="center">
+<p align="center">
+  <!-- <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> -->
+  <a href="https://www.instagram.com/da.veeee_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mubichidavidkimathi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/David-Kimath1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=David-Kimath1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-Kimath1&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## Activity Graph
+<!-- <h3 align="center">🎧 Currently Vibing To</h3>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true)
-
-</div>
-
----
+Holo-display
+<p align="center">
+  <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffff&bg_color=001a1a&waveform=sine&glow=cyan&grid=true" />
+</p> -->
 
 <div align="center">
   <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
