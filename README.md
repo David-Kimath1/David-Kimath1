@@ -63,7 +63,6 @@ A “Now Playing” system using Spotify API.
 - OAuth authentication flow
 - Custom UI integration
 
----
 <!--
 ## Development Activity
 
