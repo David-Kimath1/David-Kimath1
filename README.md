@@ -64,10 +64,10 @@ A “Now Playing” system using Spotify API.
 - Custom UI integration
 
 ---
-
+<!--
 ## Development Activity
 
-<!-- <p align="center">
+ <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Kimath1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kimath1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC" />
 </p> 
