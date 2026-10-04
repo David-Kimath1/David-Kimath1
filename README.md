@@ -63,7 +63,7 @@ A “Now Playing” system using Spotify API.
 - OAuth authentication flow
 - Custom UI integration
 
-<!--
+
 ## Development Activity
 
  <p align="center">
@@ -76,7 +76,7 @@ A “Now Playing” system using Spotify API.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true&v=2" />
-</p>-->
+</p>
 
 ---
 
@@ -103,12 +103,12 @@ A “Now Playing” system using Spotify API.
 
 ---
 
-<!-- <h3 align="center">🎧 Currently Vibing To</h3>
+ <h3 align="center">🎧 Currently Vibing To</h3>
 
 Holo-display
 <p align="center">
   <img src="https://Nair0bian.pythonanywhere.com?theme=dark&spin=true&eq_color=00ffff&bg_color=001a1a&waveform=sine&glow=cyan&grid=true" />
-</p> -->
+</p>
 
 <div align="center">
   <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
