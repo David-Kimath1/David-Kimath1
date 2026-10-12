@@ -74,6 +74,8 @@ A “Now Playing” system using Spotify API.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Kimath1&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakNum=FFFFFF&v=2" />
 </p>
 
+
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Kimath1&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true&v=2" />
 </p>
@@ -83,9 +85,9 @@ A “Now Playing” system using Spotify API.
 ## Connect
 
 <p align="center">
-  <!-- <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> -->
+  </a>
   <a href="https://www.instagram.com/da.veeee_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -103,7 +105,7 @@ A “Now Playing” system using Spotify API.
 
 ---
 
- <h3 align="center">🎧 Currently Vibing To</h3>
+<h3 align="center">🎧 Currently Vibing To</h3>
 
 Holo-display
 <p align="center">
@@ -113,3 +115,4 @@ Holo-display
 <div align="center">
   <sub>Focused on building reliable systems, clean code, and meaningful user experiences.</sub>
 </div>
+-->
