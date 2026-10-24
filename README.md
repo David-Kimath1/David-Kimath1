@@ -208,7 +208,6 @@ Becoming a full-stack systems engineer who can own a product end to end — inte
 
 - **GitHub:** https://github.com/David-Kimath1
 - **Portfolio:** https://my-portfolio1-weld.vercel.app/
-- **DaveLabs Dev:** https://davelabs-dev.netlify.app/
 
 I'm always up for talking about software, IT support, Linux, backend work, automation, AI assistants, open source, or just an interesting engineering problem.
 
