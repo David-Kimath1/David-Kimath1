@@ -196,15 +196,13 @@ Becoming a full-stack systems engineer who can own a product end to end — inte
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Kimath1&show_icons=true&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kimath1&layout=compact&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Kimath1&show_icons=true&hide_border=true&rank_icon=github&theme=dark" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Kimath1&layout=compact&hide_border=true&theme=dark" height="170">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=David-Kimath1&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=David-Kimath1&hide_border=true&theme=dark" />
 </p>
-
----
 
 ## Find Me
 
