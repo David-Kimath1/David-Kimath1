@@ -96,7 +96,7 @@ A web app for tracking recurring subscriptions and payments, with multi-currency
 
 **02 — Golden Crust Bakeries** · *Digital bakery platform*
 A business-focused build exploring how a traditional bakery becomes a full digital workflow — catalog, ordering, customer side, admin side, and the backend behind it.
-`HTML · CSS · JavaScript · Node.js`
+`HTML · CSS · JavaScript · Node.js` → https://golden-crust-dave-o-lopers-projects.vercel.app/
 
 **03 — OpenJarvis** · *Personal AI assistant*
 An experiment in what an assistant looks like when it's wired to real tools — conversation, voice, memory, APIs, and automation rather than just a chat box.
