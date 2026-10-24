@@ -9,7 +9,7 @@
   <a href="https://my-portfolio1-weld.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://davelabs-dev.netlify.app/">
+  <a href="">
     <img src="https://img.shields.io/badge/DaveLabs-Dev-0A0A0A?style=flat-square&logo=netlify&logoColor=white" />
   </a>
 </p>
@@ -474,7 +474,7 @@ JavaScript · HTML · CSS · PWA
 
 **Live**
 
-https://overstack.kimathicodes.workers.dev/
+
 
 ### 06 — RydEx
 
@@ -550,7 +550,7 @@ DaveLabs Dev is a separate project focused on providing practical technology ser
 
 **Website**
 
-https://davelabs-dev.netlify.app/
+
 
 ---
 
@@ -901,7 +901,7 @@ A separate technology initiative focused on practical IT solutions, hardware/sof
 
 **Website**
 
-https://davelabs-dev.netlify.app/
+
 
 ## Let's Connect
 
