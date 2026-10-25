@@ -9,9 +9,7 @@
   <a href="https://my-portfolio1-weld.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://davelabs-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/DaveLabs-Dev-0A0A0A?style=flat-square&logo=netlify&logoColor=white" />
-  </a>
+  
 </p>
 
 > I build practical software — clean interfaces, working automations, and tools that actually get used.
@@ -120,7 +118,7 @@ A reading-focused PWA for organizing books, tracking progress, and keeping notes
 
 **08 — DaveLabs Dev** · *IT solutions & web development*
 My separate tech-services side: OS installs, hardware upgrades, maintenance, network consulting, and web development.
-→ https://davelabs-dev.netlify.app/
+
 
 ---
 
